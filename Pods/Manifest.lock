@@ -1,0 +1,28 @@
+PODS:
+  - Alamofire (3.1.4)
+  - Popover (0.8.0)
+  - SwiftyJSON (2.3.2)
+  - UMengAnalytics (3.6.6)
+
+DEPENDENCIES:
+  - Alamofire (~> 3.0)
+  - Popover
+  - SwiftyJSON (from `https://github.com/SwiftyJSON/SwiftyJSON.git`)
+  - UMengAnalytics
+
+EXTERNAL SOURCES:
+  SwiftyJSON:
+    :git: https://github.com/SwiftyJSON/SwiftyJSON.git
+
+CHECKOUT OPTIONS:
+  SwiftyJSON:
+    :commit: 5f59648a6e9356b26c5cb698ab924fa7d750b6c9
+    :git: https://github.com/SwiftyJSON/SwiftyJSON.git
+
+SPEC CHECKSUMS:
+  Alamofire: fbc829692f351fa1d8a31dd75fd7f7f56fea31fb
+  Popover: 666aeb02095fff5cbf6896548a92abc84c523b60
+  SwiftyJSON: 04ccea08915aa0109039157c7974cf0298da292a
+  UMengAnalytics: 4bf831415146b9c57cb10be65fbd43462ef8cf65
+
+COCOAPODS: 0.39.0

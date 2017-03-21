@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "A915AECDC2506A1BF3A852B56A00E44F76B312A4",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "83AA4810D11C3CFE1E51CC472E2BCEA75BE50509" : 9223372036854775807,
+    "A915AECDC2506A1BF3A852B56A00E44F76B312A4" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "14338C96-7038-448F-A6F0-B67C88E6F22D",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "83AA4810D11C3CFE1E51CC472E2BCEA75BE50509" : "",
+    "A915AECDC2506A1BF3A852B56A00E44F76B312A4" : "tianwu\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "tianwu",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "tianwu.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/bitbucket.org\/rollin_ma\/twios.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "83AA4810D11C3CFE1E51CC472E2BCEA75BE50509"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/bitbucket.org\/xianglesongios\/tianwuios.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "A915AECDC2506A1BF3A852B56A00E44F76B312A4"
+    }
+  ]
+}
